@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Laporan_TA_Final
+Exec=sh -c 'cd "$(dirname "%k")" && ./common/temp/desktop_notify.sh'
+Icon=application-pdf
+Terminal=false
+Comment=Laporan
+StartupNotify=false
+Path=
